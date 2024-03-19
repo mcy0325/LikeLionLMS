@@ -33,7 +33,7 @@
     background-color: #ffffff;
     border: none;
     border-radius: 8px;
-    font-family: "GmarketSansMedium";
+    font-family: "Gmarket Sans";
     color: var(--color-orange-main);
     font-size: 12px;
 }
@@ -45,6 +45,7 @@
     margin-top: 10px;
     margin-right: 0px;
     margin-left: auto;
+    padding: 7px;
 }
 
 .navbar_title_txt{
@@ -102,4 +103,5 @@
     margin-top: 10px;
     margin-right: auto;
     margin-left: 0px;
+    padding: 5px;
 }
